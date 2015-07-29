@@ -1,0 +1,15 @@
+.searchBar {
+	position: absolute;
+	top: 45%;
+	width: 100%;
+};
+
+.result {
+	position: absolute;
+	top: 55%;
+	width: 100%;
+}
+
+.row {
+	padding: 5px;
+}
